@@ -1,5 +1,5 @@
 Summary:	HTML to text converter
-Summary(pl):	Konwerter z HTML do tekstu
+Summary(pl):	Konwerter z HTML-a do tekstu
 Name:		vilistextum
 Version:	2.6.7
 Release:	1
@@ -18,11 +18,11 @@ quirky HTML. It is able to optimize for ebook reading, collapse
 multiple blank lines, and create footnotes out of links.
 
 %description -l pl
-Vilistextum jest ma³ym i szybkim narzêdziem do konwersji HTML do
+Vilistextum jest ma³ym i szybkim narzêdziem do konwersji HTML-a do
 tekstu, zaprogramowanym do uzyskania najlepszej jako¶ci przy b³êdnym
-htmlu. Jest odporny na b³êdy oraz radzi sobie z ¼le formatowanym
+HTML-u. Jest odporny na b³êdy oraz radzi sobie ze ¼le formatowanym
 HTML-em. Jest tak¿e zoptymalizowany do czytania ebooków, ³±czenia
-wielu pustych lini i tworzenia stopek z linkami.
+wielu pustych linii i tworzenia stopek z odno¶nikami.
 
 %prep
 %setup -q
