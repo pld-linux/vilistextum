@@ -1,5 +1,5 @@
 Summary:	HTML to text converter
-Summary(pl.UTF-8):   Konwerter z HTML-a do tekstu
+Summary(pl.UTF-8):	Konwerter z HTML-a do tekstu
 Name:		vilistextum
 Version:	2.6.7
 Release:	1
