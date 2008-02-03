@@ -1,12 +1,12 @@
 Summary:	HTML to text converter
 Summary(pl.UTF-8):	Konwerter z HTML-a do tekstu
 Name:		vilistextum
-Version:	2.6.7
+Version:	2.6.9
 Release:	1
 License:	GPL v2
 Group:		Applications/Text
 Source0:	http://dl.sourceforge.net/vilistextum/%{name}-%{version}.tar.bz2
-# Source0-md5:	e35ae3d99d1f90dd78a2a87adf1db8cf
+# Source0-md5:	661c9e406a64d174f1dde5e14f54fb5d
 URL:		http://bhaak.dyndns.org/vilistextum/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
